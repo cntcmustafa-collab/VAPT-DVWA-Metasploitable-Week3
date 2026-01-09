@@ -1,0 +1,14 @@
+Evidence Log – Chain of Custody
+===============================
+
+Item ID: E001
+Evidence Type: Network Capture
+Tool: Wireshark
+Description:
+HTTP request–response traffic between attacker and DVWA server during exploitation.
+
+Attacker IP: 192.168.56.101
+Target IP: 192.168.56.102
+
+Integrity Status:
+SHA-256 hash verified
