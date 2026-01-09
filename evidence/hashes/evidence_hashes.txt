@@ -1,0 +1,13 @@
+Evidence Hash Record – VAPT Week 3
+=================================
+
+Evidence Item: Network Traffic Capture
+File Name: http_vaptweek3.pcapng
+Tool Used: Wireshark
+Hash Algorithm: SHA-256
+
+Hash Value:
+313b04ce74fcba29f0bc550e7acd323f55e4b4668eb7372a0c0627a517c5e010
+
+Verification:
+Hash verified after collection to ensure integrity.
